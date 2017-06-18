@@ -1,2 +1,2 @@
 # VR-Supermarket
-Final product of project
+Documentation for Summer Project
