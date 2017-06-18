@@ -1,2 +1,2 @@
-# VR-Supermarket
+# VR-Supermarket_LaTex
 Documentation for Summer Project
